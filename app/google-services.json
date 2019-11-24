@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168634045580",
+    "firebase_url": "https://monsterindex-f360e.firebaseio.com",
+    "project_id": "monsterindex-f360e",
+    "storage_bucket": "monsterindex-f360e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168634045580:android:24cebb1085ea19e92897a9",
+        "android_client_info": {
+          "package_name": "com.example.monsterindex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168634045580-hl2k53q3jtsa63t3scorio29mkdn26pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monsterindex",
+            "certificate_hash": "b31039235ae5cb6eb426c406d24cfff77d5b9199"
+          }
+        },
+        {
+          "client_id": "168634045580-oumvpait0hpca3j0r4alpltubj1rk4ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrH7KTl2ePnMT57mkJ1IaQUCT4th92yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168634045580-oumvpait0hpca3j0r4alpltubj1rk4ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
